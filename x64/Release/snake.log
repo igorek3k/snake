@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1092,5): error MSB6006: "link.exe" завершилась с кодом 1120.
+MSVCRT.lib(exe_main.obj) : error LNK2001: неразрешенный внешний символ main.
+C:\Users\user\source\repos\snake\x64\Release\snake.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
